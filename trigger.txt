@@ -1,1 +1,1 @@
-hrfee/jfa-go:latest registry.cn-guangzhou.aliyuncs.com/paulwang/pp/jfa-go:latest
+hrfee/jfa-go:latest registry.cn-guangzhou.aliyuncs.com/paulwang/jfa-go:latest
