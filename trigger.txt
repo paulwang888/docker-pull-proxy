@@ -1,1 +1,1 @@
-nginx:alpine registry.cn-guangzhou.aliyuncs.com/paulwang/pp/nginx:alpine
+nginx:alpine registry.cn-guangzhou.aliyuncs.com/paulwang/nginx:alpine
