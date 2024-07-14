@@ -1,1 +1,1 @@
-gdy666/lucky:latest registry.cn-guangzhou.aliyuncs.com/paulwang/lucky:latest
+jeessy/ddns-go:latest registry.cn-guangzhou.aliyuncs.com/paulwang/ddns-go:latest
