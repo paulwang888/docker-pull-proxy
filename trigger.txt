@@ -1,1 +1,1 @@
-jeessy/ddns-go:latest registry.cn-guangzhou.aliyuncs.com/paulwang/ddns-go:latest
+cloudnas/clouddrive2:latest registry.cn-guangzhou.aliyuncs.com/paulwang/clouddrive2:latest
